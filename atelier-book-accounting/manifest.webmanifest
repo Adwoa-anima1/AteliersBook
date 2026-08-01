@@ -1,0 +1,10 @@
+{
+  "name": "AteliersBook",
+  "short_name": "AteliersBook",
+  "description": "Client measurements, dress orders and business accounts.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5eee7",
+  "theme_color": "#29241f",
+  "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
+}
